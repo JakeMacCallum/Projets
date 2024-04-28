@@ -1,0 +1,362 @@
+{
+  "normalPunch": {
+    "atk": 5.0,
+    "type": "fairy",
+    "accuracy": 100
+  },
+  "normalKick": {
+    "atk": 7.5,
+    "type": "fairy",
+    "accuracy": 75
+  },
+  "normalSlam": {
+    "atk": 10.0,
+    "type": "fairy",
+    "accuracy": 50
+  },
+  "normalDestroy": {
+    "atk": 20.0,
+    "type": "fairy",
+    "accuracy": 25
+  },
+  "fightingPunch": {
+    "atk": 5.0,
+    "type": "fairy",
+    "accuracy": 100
+  },
+  "fightingKick": {
+    "atk": 7.5,
+    "type": "fairy",
+    "accuracy": 75
+  },
+  "fightingSlam": {
+    "atk": 10.0,
+    "type": "fairy",
+    "accuracy": 50
+  },
+  "fightingDestroy": {
+    "atk": 20.0,
+    "type": "fairy",
+    "accuracy": 25
+  },
+  "flyingPunch": {
+    "atk": 5.0,
+    "type": "fairy",
+    "accuracy": 100
+  },
+  "flyingKick": {
+    "atk": 7.5,
+    "type": "fairy",
+    "accuracy": 75
+  },
+  "flyingSlam": {
+    "atk": 10.0,
+    "type": "fairy",
+    "accuracy": 50
+  },
+  "flyingDestroy": {
+    "atk": 20.0,
+    "type": "fairy",
+    "accuracy": 25
+  },
+  "poisonPunch": {
+    "atk": 5.0,
+    "type": "fairy",
+    "accuracy": 100
+  },
+  "poisonKick": {
+    "atk": 7.5,
+    "type": "fairy",
+    "accuracy": 75
+  },
+  "poisonSlam": {
+    "atk": 10.0,
+    "type": "fairy",
+    "accuracy": 50
+  },
+  "poisonDestroy": {
+    "atk": 20.0,
+    "type": "fairy",
+    "accuracy": 25
+  },
+  "groundPunch": {
+    "atk": 5.0,
+    "type": "fairy",
+    "accuracy": 100
+  },
+  "groundKick": {
+    "atk": 7.5,
+    "type": "fairy",
+    "accuracy": 75
+  },
+  "groundSlam": {
+    "atk": 10.0,
+    "type": "fairy",
+    "accuracy": 50
+  },
+  "groundDestroy": {
+    "atk": 20.0,
+    "type": "fairy",
+    "accuracy": 25
+  },
+  "rockPunch": {
+    "atk": 5.0,
+    "type": "fairy",
+    "accuracy": 100
+  },
+  "rockKick": {
+    "atk": 7.5,
+    "type": "fairy",
+    "accuracy": 75
+  },
+  "rockSlam": {
+    "atk": 10.0,
+    "type": "fairy",
+    "accuracy": 50
+  },
+  "rockDestroy": {
+    "atk": 20.0,
+    "type": "fairy",
+    "accuracy": 25
+  },
+  "bugPunch": {
+    "atk": 5.0,
+    "type": "fairy",
+    "accuracy": 100
+  },
+  "bugKick": {
+    "atk": 7.5,
+    "type": "fairy",
+    "accuracy": 75
+  },
+  "bugSlam": {
+    "atk": 10.0,
+    "type": "fairy",
+    "accuracy": 50
+  },
+  "bugDestroy": {
+    "atk": 20.0,
+    "type": "fairy",
+    "accuracy": 25
+  },
+  "ghostPunch": {
+    "atk": 5.0,
+    "type": "fairy",
+    "accuracy": 100
+  },
+  "ghostKick": {
+    "atk": 7.5,
+    "type": "fairy",
+    "accuracy": 75
+  },
+  "ghostSlam": {
+    "atk": 10.0,
+    "type": "fairy",
+    "accuracy": 50
+  },
+  "ghostDestroy": {
+    "atk": 20.0,
+    "type": "fairy",
+    "accuracy": 25
+  },
+  "steelPunch": {
+    "atk": 5.0,
+    "type": "fairy",
+    "accuracy": 100
+  },
+  "steelKick": {
+    "atk": 7.5,
+    "type": "fairy",
+    "accuracy": 75
+  },
+  "steelSlam": {
+    "atk": 10.0,
+    "type": "fairy",
+    "accuracy": 50
+  },
+  "steelDestroy": {
+    "atk": 20.0,
+    "type": "fairy",
+    "accuracy": 25
+  },
+  "firePunch": {
+    "atk": 5.0,
+    "type": "fairy",
+    "accuracy": 100
+  },
+  "fireKick": {
+    "atk": 7.5,
+    "type": "fairy",
+    "accuracy": 75
+  },
+  "fireSlam": {
+    "atk": 10.0,
+    "type": "fairy",
+    "accuracy": 50
+  },
+  "fireDestroy": {
+    "atk": 20.0,
+    "type": "fairy",
+    "accuracy": 25
+  },
+  "waterPunch": {
+    "atk": 5.0,
+    "type": "fairy",
+    "accuracy": 100
+  },
+  "waterKick": {
+    "atk": 7.5,
+    "type": "fairy",
+    "accuracy": 75
+  },
+  "waterSlam": {
+    "atk": 10.0,
+    "type": "fairy",
+    "accuracy": 50
+  },
+  "waterDestroy": {
+    "atk": 20.0,
+    "type": "fairy",
+    "accuracy": 25
+  },
+  "grassPunch": {
+    "atk": 5.0,
+    "type": "fairy",
+    "accuracy": 100
+  },
+  "grassKick": {
+    "atk": 7.5,
+    "type": "fairy",
+    "accuracy": 75
+  },
+  "grassSlam": {
+    "atk": 10.0,
+    "type": "fairy",
+    "accuracy": 50
+  },
+  "grassDestroy": {
+    "atk": 20.0,
+    "type": "fairy",
+    "accuracy": 25
+  },
+  "electricPunch": {
+    "atk": 5.0,
+    "type": "fairy",
+    "accuracy": 100
+  },
+  "electricKick": {
+    "atk": 7.5,
+    "type": "fairy",
+    "accuracy": 75
+  },
+  "electricSlam": {
+    "atk": 10.0,
+    "type": "fairy",
+    "accuracy": 50
+  },
+  "electricDestroy": {
+    "atk": 20.0,
+    "type": "fairy",
+    "accuracy": 25
+  },
+  "psychicPunch": {
+    "atk": 5.0,
+    "type": "fairy",
+    "accuracy": 100
+  },
+  "psychicKick": {
+    "atk": 7.5,
+    "type": "fairy",
+    "accuracy": 75
+  },
+  "psychicSlam": {
+    "atk": 10.0,
+    "type": "fairy",
+    "accuracy": 50
+  },
+  "psychicDestroy": {
+    "atk": 20.0,
+    "type": "fairy",
+    "accuracy": 25
+  },
+  "icePunch": {
+    "atk": 5.0,
+    "type": "fairy",
+    "accuracy": 100
+  },
+  "iceKick": {
+    "atk": 7.5,
+    "type": "fairy",
+    "accuracy": 75
+  },
+  "iceSlam": {
+    "atk": 10.0,
+    "type": "fairy",
+    "accuracy": 50
+  },
+  "iceDestroy": {
+    "atk": 20.0,
+    "type": "fairy",
+    "accuracy": 25
+  },
+  "dragonPunch": {
+    "atk": 5.0,
+    "type": "fairy",
+    "accuracy": 100
+  },
+  "dragonKick": {
+    "atk": 7.5,
+    "type": "fairy",
+    "accuracy": 75
+  },
+  "dragonSlam": {
+    "atk": 10.0,
+    "type": "fairy",
+    "accuracy": 50
+  },
+  "dragonDestroy": {
+    "atk": 20.0,
+    "type": "fairy",
+    "accuracy": 25
+  },
+  "darkPunch": {
+    "atk": 5.0,
+    "type": "fairy",
+    "accuracy": 100
+  },
+  "darkKick": {
+    "atk": 7.5,
+    "type": "fairy",
+    "accuracy": 75
+  },
+  "darkSlam": {
+    "atk": 10.0,
+    "type": "fairy",
+    "accuracy": 50
+  },
+  "darkDestroy": {
+    "atk": 20.0,
+    "type": "fairy",
+    "accuracy": 25
+  },
+  "fairyPunch": {
+    "atk": 5.0,
+    "type": "fairy",
+    "accuracy": 100
+  },
+  "fairyKick": {
+    "atk": 7.5,
+    "type": "fairy",
+    "accuracy": 75
+  },
+  "fairySlam": {
+    "atk": 10.0,
+    "type": "fairy",
+    "accuracy": 50
+  },
+  "fairyDestroy": {
+    "atk": 20.0,
+    "type": "fairy",
+    "accuracy": 25
+  }
+}
